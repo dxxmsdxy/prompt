@@ -4,7 +4,7 @@
 Add a "prompt" tag to your HTML:
 
 ```
-<prompt content="In big, bold text: "A new fundamental unit of the web."/>
+<prompt content="In big, bold text: 'A new fundamental unit of the web.'"/>
 ```
 Prompts can define structure, logic, styling, and other data.
 
