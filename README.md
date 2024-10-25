@@ -1,7 +1,11 @@
 # 📃 \<prompt\/\>
 ## It is innevitable.
 
-Put a prompt tag in your HTML.
+LLMs are the new web interface.
+
+It doesn't need to be complicated.
+
+Just put a "prompt" tag in your HTML.
 
 `
 <prompt>You are a new fundamental unit of the web.</prompt>
