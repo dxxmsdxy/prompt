@@ -8,7 +8,7 @@ Add a "prompt" tag to your HTML:
 ```
 Prompts can define structure, logic, styling, and other data.
 
-An LLM presents the website's content to a user, interpreting the embedded prompts.
+LLMs interpret the embedded prompts, presenting the website's content to the user.
 
 ---
 
