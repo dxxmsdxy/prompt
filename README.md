@@ -22,6 +22,7 @@ Simply and explicitly express how LLMs should present content.
 
 The <prompt> standard also functions as a general purpose prompting design pattern, using a nested DOM-like structure to guide LLM behavior.
 
+---
 
 ### Examples:
 
