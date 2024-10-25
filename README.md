@@ -1,5 +1,5 @@
 # 📃 \<prompt\/\>
-## The Large Language Web
+## A basic building block for the generative web.
 
 Add a "prompt" tag to your HTML:
 
