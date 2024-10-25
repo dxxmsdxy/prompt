@@ -16,7 +16,7 @@ Does that make sense?
 ### Describe a site or app:
 
 ```
-<prompt>A simple math calculator with a large, minimal UI design.</prompt>
+<prompt>A simple full-page chat interface for the user to communicate with you, with a highly-legible, minimal UI.</prompt>
 ```
 
 `
