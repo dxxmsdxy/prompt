@@ -39,9 +39,7 @@ Browsers, plugins, and web APIs can target a simple primitive.
 
 #### Modify a page:
 ```
-<prompt>
-  Re-style the website as if it was designed by a psychedelic Leonardo DaVinci.
-</prompt>
+<prompt content="Re-style the website as if it was designed by a psychedelic Leonardo DaVinci."/>
 ```
 
 #### Or, define content of specifc elements:
