@@ -13,9 +13,11 @@ Just put a "prompt" tag in your HTML:
 
 ### LLMs: The new web interface.
 
+Let's start again, from the beginning.
+
 Simply and explicitly express how LLMs should present a page's content.
 
-Browser-native AI, plugins, and web APIs can all target a simple primitive.
+Browsers, plugins, and web APIs can tareget a simple primitive.
 
 
 ### Examples:
