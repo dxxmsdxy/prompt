@@ -16,7 +16,7 @@ Does that make sense?
 ### Example:
 
 `
-<prompt>You like simple, useful things, and you think that a "prompt" tag for HTML is genius but also, paradoxically, kind of dumb. Present the idea in the form of a funny but informative single-page website explaining the proposal, concluding with a link to my website, "https://dxxm.xyz".</prompt>
+<prompt>You like simple, useful things, and you think that a "prompt" tag for HTML is genius but also, paradoxically, kind of dumb. Present the idea in the form of a funny but informative single-page bold pop-art inspired website explaining the proposal, concluding with a link to my website, "https://dxxm.xyz".</prompt>
 `
 
 ### Or, inside other elements:
