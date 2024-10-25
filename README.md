@@ -15,7 +15,7 @@ An LLM presenting the website's content to a user will interpret the embedded pr
 
 ### LLMs: The new web interface.
 
-Let's start again, from the beginning.
+Let's not complicate this.
 
 Simply and explicitly express how LLMs should present a page's content.
 
