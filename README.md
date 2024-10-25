@@ -11,11 +11,13 @@ Just put a "prompt" tag in your HTML.
 
 Simply and explicitly express how LLM should engage with the page.
 
+A fundamental change doesn't have to be complicated.
+
 Browser-native AI, plugins, and web APIs can all target a simple primitive.
 
-## Examples:
+### Examples:
 
-### Describe a site or app:
+#### Describe a site or app:
 
 ```
 <prompt>
@@ -29,14 +31,14 @@ Browser-native AI, plugins, and web APIs can all target a simple primitive.
 </prompt>
 ```
 
-### Modify a page:
+#### Modify a page:
 ```
 <prompt>
   Re-style the website as if it was designed by Leonardo DaVinci.
 </prompt>
 ```
 
-### Or, define content of specifc elements:
+#### Or, define content of specifc elements:
 ```
 <section>
   <prompt>
