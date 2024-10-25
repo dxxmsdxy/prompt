@@ -1,4 +1,4 @@
-# \<prompt\/\>
+# 📃 \<prompt\/\>
 ## It is innevitable.
 
 Put a prompt tag in your HTML.
