@@ -1,7 +1,7 @@
 # 📃 \<prompt\/\>
 ## The Large Language Web
 
-Put a "prompt" tag in your HTML:
+Add a "prompt" tag to your HTML:
 
 ```
 <prompt>
