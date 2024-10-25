@@ -7,6 +7,8 @@ Just put a "prompt" tag in your HTML.
 <prompt>You are a new fundamental unit of the web.</prompt>
 `
 
+---
+
 ### LLMs: The new web interface.
 
 Simply and explicitly express how LLM should engage with the page.
