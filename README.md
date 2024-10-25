@@ -15,6 +15,8 @@ A fundamental change doesn't have to be complicated.
 
 Browser-native AI, plugins, and web APIs can all target a simple primitive.
 
+---
+
 ### Examples:
 
 #### Describe a site or app:
