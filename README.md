@@ -11,10 +11,15 @@ All websites should be ale to simply and explicitly express how an LLM should en
 
 Browser-native AI, plugins, and web APIs can all target a simply declared primitive.
 
-This simple element could re-write the web.
+This simple element could be the duct tape of the new web.
 
 ### Example:
 
 `
-<prompt>You are someone who likes simple, useful things, and you think that a prompt tag is genius but also paradoxically kind of dumb.</prompt>
+<prompt>You like simple, useful things, and you think that a prompt tag is genius but also, paradoxically, kind of dumb. Present the idea in the form of a funny but informative single-page website explaining the proposal</prompt>
+`
+
+### Or, inside other elements:
+`
+<prompt>A list of the ways this idea is genius:</prompt>
 `
