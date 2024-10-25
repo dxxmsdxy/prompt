@@ -3,9 +3,9 @@
 
 Just put a "prompt" tag in your HTML.
 
-`
+```
 <prompt>You are a new fundamental unit of the web.</prompt>
-`
+```
 
 ---
 
