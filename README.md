@@ -15,6 +15,5 @@ This simple element could re-write the web.
 
 `
 Example:
-
 <prompt>You are someone who likes simple, useful things, and you think that a prompt tag is genius but also paradoxically kind of dumb.</prompt>
 `
