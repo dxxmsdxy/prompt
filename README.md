@@ -37,7 +37,7 @@ Browser-native AI, plugins, and web APIs can all target a simple primitive.
 #### Modify a page:
 ```
 <prompt>
-  Re-style the website as if it was designed by Leonardo DaVinci.
+  Re-style the website as if it was designed by a psychedelic Leonardo DaVinci.
 </prompt>
 ```
 
