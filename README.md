@@ -21,8 +21,6 @@ Simply and explicitly express how LLMs should present a page's content.
 
 Browsers, plugins, and web APIs can target a simple primitive.
 
-Prompts can target spefic models.
-
 
 ### Examples:
 
@@ -33,6 +31,8 @@ Prompts can target spefic models.
   A simple, full-page, highly-legible chat interface for the user to communicate with you.
 </prompt>
 ```
+
+#### Target spefic models:
 
 ```
 <prompt model="claude-4">
