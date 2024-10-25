@@ -1,7 +1,7 @@
 # 📃 \<prompt\/\>
-## Define the web for LLMs
+## The Large Language Web
 
-Just put a "prompt" tag in your HTML:
+Put a "prompt" tag in your HTML:
 
 ```
 <prompt>
