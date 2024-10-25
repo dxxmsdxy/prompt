@@ -1,2 +1,2 @@
-# <prompt/>
+# \<prompt\/\>
 It is innevitable.
