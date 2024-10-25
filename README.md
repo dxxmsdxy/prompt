@@ -16,21 +16,29 @@ Does that make sense?
 ### Describe a site or app:
 
 ```
-<prompt>A simple full-page chat interface for the user to communicate with you, with a highly-legible, minimal UI.</prompt>
+<prompt>
+  A simple full-page chat interface for the user to communicate with you, with a highly-legible, minimal UI.
+</prompt>
 ```
 
 ```
-<prompt>You like simple, useful things, and you think that an HTML "prompt" tag is genius but also, paradoxically, kind of dumb. Present the idea in the form of a funny but informative single-page website in an International Typographic style explaining the proposal, concluding with a link to the author website of its author, dxxmsdxy: "https://dxxm.xyz".</prompt>
+<prompt>
+  You like simple, useful things, and you think that an HTML "prompt" tag is genius but also, paradoxically, kind of dumb. Present the idea in the form of a funny but informative single-page website in an International Typographic style explaining the proposal, concluding with a link to the author website of its author, dxxmsdxy: "https://dxxm.xyz".
+</prompt>
 ```
 
 ### Modify a page:
 ```
-<prompt>Re-style the website as if it was designed by Leonardo DaVinci.</prompt>
+<prompt>
+  Re-style the website as if it was designed by Leonardo DaVinci.
+</prompt>
 ```
 
 ### Or, define content of specifc elements:
 ```
 <section>
-  <prompt>A list of the ways this idea is genius:</prompt>
+  <prompt>
+    A list of the ways this idea is genius:
+  </prompt>
 </section>
 ```
