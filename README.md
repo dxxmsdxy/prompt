@@ -38,7 +38,7 @@ Simply and explicitly express how LLMs should present a page's content.
 #### Modify a page:
 ```
 <body>
-  <prompt content="Re-style the website as if it was designed by a psychedelic Leonardo DaVinci."/>
+  <prompt content='Re-style the website as if it was designed by a psychedelic Leonardo DaVinci.'/>
 </body>
 ```
 
