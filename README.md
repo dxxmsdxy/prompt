@@ -1,21 +1,19 @@
 # 📃 \<prompt\/\>
 ## It is innevitable.
 
-LLMs are the new web interface.
-
-It doesn't need to be complicated.
-
 Just put a "prompt" tag in your HTML.
 
 `
 <prompt>You are a new fundamental unit of the web.</prompt>
 `
 
-Simply and explicitly express how an LLM should engage with the page.
+LLMs are the new web interface.
+
+Simply and explicitly express how LLM should engage with the page.
 
 Browser-native AI, plugins, and web APIs can all target a simple primitive.
 
-Does that make sense?
+## Examples:
 
 ### Describe a site or app:
 
