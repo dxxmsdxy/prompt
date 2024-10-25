@@ -4,12 +4,11 @@
 Add a "prompt" tag to your HTML:
 
 ```
-<prompt>
-  In big, bold text: "A new fundamental unit of the web."
-</prompt>
+<prompt content="In big, bold text: "A new fundamental unit of the web."/>
 ```
+Prompts can define structure, logic, styling, and other data.
 
-An LLM presents the website's content to a user by interpreting the embedded prompts.
+An LLM presents the website's content to a user, interpreting the embedded prompts.
 
 ---
 
@@ -27,9 +26,7 @@ Browsers, plugins, and web APIs can target a simple primitive.
 #### Describe a site or app:
 
 ```
-<prompt>
-  A simple, full-page, highly-legible chat interface for the user to communicate with you.
-</prompt>
+<prompt content='A simple, full-page, highly-legible chat interface for the user to communicate with you."/>
 ```
 
 #### Target spefic models:
@@ -50,8 +47,10 @@ Browsers, plugins, and web APIs can target a simple primitive.
 #### Or, define content of specifc elements:
 ```
 <section>
-  <prompt>
-    A list of the ways this idea is genius:
+  <prompt content="A big splash section summarizing the content">
+    <prompt>
+      A list of the ways this idea is genius:
+    </prompt>
   </prompt>
-</section>
+</section
 ```
