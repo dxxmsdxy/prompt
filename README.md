@@ -16,7 +16,11 @@ LLMs interpret the embedded prompts, presenting the website's content to the use
 
 Let's not complicate this; web pages and APIs can use a simple primitive to communicate with LLMs accessing the page.
 
-Simply and explicitly express how LLMs should present a page's content.
+Simply and explicitly express how LLMs should present content.
+
+#### Beyond the web...
+
+The <prompt> standard also functions as a general purpose prompting design pattern, using a nested DOM-like structure to guide LLM behavior.
 
 
 ### Examples:
