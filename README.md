@@ -11,9 +11,7 @@ Just put a "prompt" tag in your HTML.
 
 ### LLMs: The new web interface.
 
-Simply and explicitly express how LLM should engage with the page.
-
-A fundamental change doesn't have to be complicated.
+Simply and explicitly express how LLMs should present a page's content.
 
 Browser-native AI, plugins, and web APIs can all target a simple primitive.
 
