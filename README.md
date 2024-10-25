@@ -19,7 +19,7 @@ Let's not complicate this.
 
 Simply and explicitly express how LLMs should present a page's content.
 
-Browsers, plugins, and web APIs can tareget a simple primitive.
+Browsers, plugins, and web APIs can target a simple primitive.
 
 Prompts can target spefic models.
 
