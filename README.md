@@ -1,5 +1,5 @@
 # 📃 \<prompt\/\>
-## It is innevitable.
+## Define the web for LLMs
 
 Just put a "prompt" tag in your HTML:
 
