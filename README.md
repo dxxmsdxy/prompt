@@ -11,7 +11,7 @@ All websites should be ale to simply and explicitly express how an LLM should en
 
 Browser-native AI, plugins, and web APIs can all target a simple primitive.
 
-This simple element could be the duct tape of the new web.
+Does that make sense?
 
 ### Example:
 
