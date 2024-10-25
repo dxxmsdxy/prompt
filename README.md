@@ -9,7 +9,7 @@ Add a "prompt" tag to your HTML:
 </prompt>
 ```
 
-An LLM presenting the website's content to a user will interpret the embedded prompts.
+An LLM presents the website's content to a user by interpreting the embedded prompts.
 
 ---
 
