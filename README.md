@@ -4,9 +4,9 @@
 Put a prompt tag in your HTML.
 
 `
-<prompt>You are an HTML element.</prompt>
+<prompt>You are a new fundamental unit of the web.</prompt>
 `
 
-Websites can explicitly express how an LLM should engage with the page.
+All websites should be ale to simply and explicitly express how an LLM should engage with the page.
 
-Browser-native AI, browser plugins, and web APIs can all target a clearly declared, new primitive.
+Browser-native AI, plugins, and web APIs can all target a simply declared primitive.
