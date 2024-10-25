@@ -20,7 +20,7 @@ Does that make sense?
 `
 
 `
-<prompt>You like simple, useful things, and you think that an HTML "prompt" tag is genius but also, paradoxically, kind of dumb. Present the idea in the form of a funny but informative single-page bold International Typographic style website explaining the proposal, concluding with a link to my website, "https://dxxm.xyz".</prompt>
+<prompt>You like simple, useful things, and you think that an HTML "prompt" tag is genius but also, paradoxically, kind of dumb. Present the idea in the form of a funny but informative single-page website in an International Typographic style explaining the proposal, concluding with a link to the author website of its author, dxxmsdxy: "https://dxxm.xyz".</prompt>
 `
 
 ### Or, inside other elements:
