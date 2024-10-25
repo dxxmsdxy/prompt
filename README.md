@@ -14,9 +14,7 @@ An LLM presents the website's content to a user, interpreting the embedded promp
 
 ### LLMs: The new web interface.
 
-Let's not complicate this.
-
-Browsers, plugins, and web APIs can use a simple primitive to communicate with LLMs accessing the page.
+Let's not complicate this; browsers, plugins, and web APIs can use a simple primitive to communicate with LLMs accessing the page.
 
 Simply and explicitly express how LLMs should present a page's content.
 
