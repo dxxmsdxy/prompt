@@ -21,7 +21,7 @@ Browser-native AI, plugins, and web APIs can all target a simple primitive.
 
 ```
 <prompt>
-  A simple full-page chat interface for the user to communicate with you, with a highly-legible, minimal UI.
+  A simple, full-page, highly-legible chat interface for the user to communicate with you.
 </prompt>
 ```
 
