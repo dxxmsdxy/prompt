@@ -1,7 +1,7 @@
 # 📃 \<prompt\/\>
 ## A basic building block for the generative web.
 
-The new "prompt" element can be used as either a tag or an element (like the HTML "style" element).
+The new "prompt" element can be used as either a tag or an element (similar to the "style" element).
 
 Add a "prompt" to your HTML:
 
