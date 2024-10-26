@@ -6,7 +6,7 @@ The new "prompt" element can be used as either a tag or an element (similar to t
 Add a "prompt" to your HTML:
 
 ```
-<body content='In big, bold, full-page text: "A new fundamental unit of the web."'>
+<body prompt='In big, bold, full-page text: "A new fundamental unit of the web."'>
 </body>
 ```
 Prompts can define structure, logic, styling, and other data.
