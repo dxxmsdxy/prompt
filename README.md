@@ -15,6 +15,11 @@ LLMs interpret the embedded prompts, presenting the website's content to the use
 
 ---
 
+## Key Features of \<prompt\/\>
+Intuitive Syntax: The <prompt> element operates similarly to HTML tags, making it easy to embed guidance for LLMs directly in the HTML.
+Targeted Model Instructions: Developers can tailor content by specifying the target model for each prompt, providing flexibility for multi-model interaction.
+Adaptable Content: <prompt> can manage specific content within any element, reframe styles, or guide the layout with a single, clear directive.
+
 ### LLMs: The new web interface.
 
 Let's not complicate this; web pages and APIs can use a simple primitive to communicate with LLMs building, rendering or accessing the page.
