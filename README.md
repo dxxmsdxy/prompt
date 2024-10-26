@@ -1,26 +1,29 @@
 # 📃 \<prompt\/\>
 ## A basic building block for the generative web.
 
-Add a "prompt" tag to your HTML:
+The new "prompt" element can be used as either a tag or an element (like the HTML "style" element).
+
+Add a "prompt" to your HTML:
 
 ```
-<prompt content='In big, bold text: "A new fundamental unit of the web."'/>
+<body content='In big, bold, full-page text: "A new fundamental unit of the web."'>
+</body>
 ```
 Prompts can define structure, logic, styling, and other data.
 
-LLMs interpret the embedded prompts, presenting the website's content to the user.
+LLMs interpret the embedded prompts, presenting the website's content to the user accordingly.
 
 ---
 
 ### LLMs: The new web interface.
 
-Let's not complicate this; web pages and APIs can use a simple primitive to communicate with LLMs accessing the page.
+Let's not complicate this; web pages and APIs can use a simple primitive to communicate with LLMs building, rendering or accessing the page.
 
-Simply and explicitly express how LLMs should present content.
+Simply and explicitly express how LLMs should handle content.
 
 #### Beyond the web...
 
-The <prompt> standard also functions as a general purpose prompting design pattern, using a nested DOM-like structure to guide LLM behavior.
+The <prompt> standard also functions as a general purpose prompt design pattern, using a nested DOM-like structure to guide LLM behavior.
 
 ---
 
@@ -29,7 +32,7 @@ The <prompt> standard also functions as a general purpose prompting design patte
 #### Describe a site or app:
 
 ```
-<prompt content='A simple, full-page, highly-legible chat interface for the user to communicate with you.'/>
+<aside prompt='A simple, highly-legible, sidebar chat interface for the user to communicate with you.'></aside>
 ```
 
 #### Target spefic models:
@@ -42,18 +45,14 @@ The <prompt> standard also functions as a general purpose prompting design patte
 
 #### Modify a page:
 ```
-<body>
-  <prompt content='Re-style the website as if it was designed by a psychedelic Leonardo DaVinci.'/>
-</body>
+<body prompt='Style the website as if it was designed by a psychedelic Leonardo DaVinci.'></body>
 ```
 
 #### Or, define content of specifc elements:
 ```
-<section>
-  <prompt content='A big splash section summarizing the content'>
-    <prompt>
-      A list of the ways this idea is genius:
-    </prompt>
+<section prompt='A big splash section summarizing the content'>
+  <prompt>
+    A list of the ways this idea is genius:
   </prompt>
 </section
 ```
