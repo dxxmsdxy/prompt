@@ -51,6 +51,9 @@ The <prompt> standard also functions as a general purpose prompt design pattern,
 #### Or, define content of specifc elements:
 ```
 <section prompt='A big splash section summarizing the content'>
+  <prompt model='stabilityai/stable-diffusion-5-large'>
+    A pop art illustration of a brain with a lightbulb above it
+  </prompt>
   <prompt>
     A list of the ways this idea is genius:
   </prompt>
