@@ -9,9 +9,9 @@ Add a "prompt" to your HTML:
 <body prompt='In big, bold, full-page text: "A new fundamental unit of the web."'>
 </body>
 ```
-Prompts can define structure, logic, styling, and other data.
+Prompts can define content, structure, logic, styling, and more.
 
-LLMs interpret the embedded prompts, presenting the website's content to the user accordingly.
+LLMs interpret the embedded prompts, presenting the document's content to the user accordingly.
 
 ---
 
